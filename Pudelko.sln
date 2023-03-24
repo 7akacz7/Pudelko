@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pudelko", "Pudelko\Pudelko.csproj", "{F7A10885-284B-4D17-A7C5-2D516A25B2EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit Test", "Unit Test\Unit Test.csproj", "{2302EF93-CAA8-4371-94AB-B1C65FE94380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A10885-284B-4D17-A7C5-2D516A25B2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A10885-284B-4D17-A7C5-2D516A25B2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A10885-284B-4D17-A7C5-2D516A25B2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A10885-284B-4D17-A7C5-2D516A25B2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2302EF93-CAA8-4371-94AB-B1C65FE94380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2302EF93-CAA8-4371-94AB-B1C65FE94380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2302EF93-CAA8-4371-94AB-B1C65FE94380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2302EF93-CAA8-4371-94AB-B1C65FE94380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C34F09-8B15-4AA2-8FE7-3313FE5EFD08}
+	EndGlobalSection
+EndGlobal
